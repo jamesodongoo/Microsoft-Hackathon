@@ -1,0 +1,22 @@
+{
+  "innovation": {
+    "description": "How novel and creative the solution is",
+    "weight": 25
+  },
+  "impact": {
+    "description": "Potential real-world impact",
+    "weight": 25
+  },
+  "usability": {
+    "description": "Practicality and user experience",
+    "weight": 20
+  },
+  "solution_quality": {
+    "description": "Code quality and completeness",
+    "weight": 20
+  },
+  "alignment": {
+    "description": "Fit with hackathon themes",
+    "weight": 10
+  }
+}
