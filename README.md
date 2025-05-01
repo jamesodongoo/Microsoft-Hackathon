@@ -4,6 +4,7 @@ This is an AI agent build for competition launched by Microsoft
 # CodeCatalyst AI - Hackathon Assistant
 # 🚀 Overview
 CodeCatalyst AI is an intelligent assistant designed to help hackathon participants optimize their projects. It provides real-time feedback on:
+
 ✅ Innovation
 
 ✅ Impact
@@ -39,20 +40,6 @@ DevOps	Git, npm, pip
 
 ✔ Demo Video Script Generator
 
-
-# 📂 Project Structure
-
-codecatalyst/
-├── backend/               # Flask server
-│   ├── app.py             # Main API routes
-│   ├── requirements.txt   # Python dependencies
-│   └── .env               # API keys (not committed)
-├── frontend/              # React app
-│   ├── public/            # Static files
-│   ├── src/               # React components
-│   │   ├── components/    # UI components
-│   │   ├── App.js         # Main app
-│   └── package.json       # Frontend dependencies
 
 # ⚙️ Setup Instructions
 
